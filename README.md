@@ -32,6 +32,11 @@ pip install nltk pandas matplotlib seaborn wordcloud
 
 - **Word Count Analysis:** Analyze the word count of the Translated_Review to identify the most frequently used words and phrases.
 
+![alt text](https://github.com/AhmedEssam29/sentiment_analysis/blob/main/23.png?raw=true)
+
+![alt text](https://github.com/AhmedEssam29/sentiment_analysis/blob/main/24.png?raw=true)
+
+
 ## Example Analysis
 
 The analysis performed in this project includes:
