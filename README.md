@@ -38,9 +38,9 @@ The analysis performed in this project includes:
 
 - Sentiment Scores: Calculation of average positive, negative, and neutral sentiment scores for the reviews.
 - Visualizations:
--- Bar plot showing average sentiment scores.
--- Box plot displaying the distribution of sentiment scores.
--- Word cloud visualizing the most common words found in user reviews.
+- Bar plot showing average sentiment scores.
+- Box plot displaying the distribution of sentiment scores.
+- Word cloud visualizing the most common words found in user reviews.
 
 
 ![alt text](https://github.com/AhmedEssam29/sentiment_analysis/blob/main/22.png?raw=true)
